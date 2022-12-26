@@ -8,9 +8,9 @@ import logging
 from logging import Formatter, FileHandler
 from forms import *
 import os
-import numpy as np
+# import numpy as np
 
-print(np.__version__)
+# print(np.__version__)
 #----------------------------------------------------------------------------#
 # App Config.
 #----------------------------------------------------------------------------#
