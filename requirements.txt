@@ -1,9 +1,1 @@
-gunicorn
-Fabric
-Flask-SQLAlchemy
-Flask-WTF
-WTForms==2.3.3
-coverage
-# ecdsa
-# paramiko
-# pycrypto
+numpy==1.23.4
