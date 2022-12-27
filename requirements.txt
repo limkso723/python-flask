@@ -1,1 +1,15 @@
+gunicorn
+Fabric
+Flask-SQLAlchemy
+Flask-WTF
+WTForms==2.3.3
+coverage
+# ecdsa
+# paramiko
+# pycrypto
 numpy==1.23.4
+transformers==0.2.1
+datasets==0.2.1
+pandas==1.5.2
+torch==1.13.0
+gdown==4.6.0
