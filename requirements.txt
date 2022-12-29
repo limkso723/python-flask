@@ -5,8 +5,8 @@ Flask-WTF
 WTForms==2.3.3
 coverage
 numpy
-transformers==0.2.1
-datasets==0.2.1
+transformers
+datasets
 pandas
 torch
 gdown
